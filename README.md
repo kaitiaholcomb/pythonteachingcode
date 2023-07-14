@@ -20,4 +20,6 @@ The projects included here include working code and some experimental code. Some
 7. Data Analytics with Jupyter and Pandas
 > COMING SOON
 8. Magically Magic 8 Ball Project
-> COMING VERY SOON
+> Have set up teams members and created a new team in GitHub
+> Have been searching through exisiting repositories (have yet to try some out but we know what we are looking for)
+> Working on project roadmap
